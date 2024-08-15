@@ -1,0 +1,72 @@
+{
+  "notes": [
+    {
+      "title": "Project Kickoff",
+      "content": "Initial meeting with the team to discuss the project scope and deliverables.",
+      "date": "2024-08-11 09:00:00",
+      "id": "1d42",
+      "category": "important",
+      "favorite": true
+    },
+    {
+      "title": "Team Presentation",
+      "content": "Present the project progress and next steps to the management team.",
+      "date": "2024-08-11 17:00:00",
+      "id": "fb0a",
+      "category": "important",
+      "favorite": true
+    },
+    {
+      "title": "Guitar Practice",
+      "content": "Practice scales and learn a new song on the guitar.",
+      "date": "2024-08-11 18:30:00",
+      "id": "c425",
+      "category": "important",
+      "favorite": false
+    },
+    {
+      "title": "Weekly Grocery Run",
+      "content": "Buy vegetables, fruits, and other essentials for the week.",
+      "date": "2024-08-11 19:30:00",
+      "id": "7fa1",
+      "category": "social",
+      "favorite": true
+    },
+    {
+      "title": "Read Book",
+      "content": "Continue reading 'Atomic Habits' by James Clear.",
+      "date": "2024-08-11 21:00:00",
+      "id": "a73d",
+      "category": "social",
+      "favorite": false
+    },
+    {
+      "title": "Prepare Presentation",
+      "content": "Work on slides for the upcoming marketing strategy presentation.",
+      "date": "2024-08-12 09:00:00",
+      "id": "d33d",
+      "category": "business",
+      "favorite": true
+    },
+    {
+      "title": "Doctor's Appointment",
+      "content": "Annual check-up with Dr. Anderson.",
+      "date": "2024-08-12 11:00:00",
+      "id": "f4b3",
+      "category": "social",
+      "favorite": true
+    },
+    {
+      "id": "aebd",
+      "title": "duyjfyu",
+      "content": "jyktyukfyufjhktyukrjkiukfiu(ter-yéz-uz",
+      "category": "business"
+    },
+    {
+      "id": "3fcf",
+      "title": "je suis content",
+      "content": "bfsdhvjfbqlsuhqbjsdkq",
+      "category": "important"
+    }
+  ]
+}
