@@ -1,0 +1,14 @@
+/* Styles pour enlever la décoration et la couleur bleue des liens */
+.nav-link {
+  text-decoration: none;
+  color: inherit; /* Hérite de la couleur du parent */
+}
+
+.nav-link:hover {
+  color: inherit; /* Garde la couleur sur hover */
+}
+
+.nav-link.active {
+  color: #ffffff; /* Exemple : couleur blanche pour l'onglet actif */
+  background-color: #007bff; /* Exemple : fond bleu pour l'onglet actif */
+}
